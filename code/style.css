@@ -1,0 +1,48 @@
+.container {
+  background-color: rgb(169, 169, 169);
+   height: 100%;
+   width: auto;
+}
+.header {
+  color: white;
+  padding: 2% 3% 4% 20%;
+}
+.gameDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.onegamediv {
+  padding: 5%;
+}
+.fivegamediv {
+  padding: 5%;
+}
+.winnerDiv {
+  display: flex;
+  justify-content: space-around;
+}
+#computerId {
+  color: brown;
+}
+#playerId {
+  color: blue;
+}
+#resultId {
+  color: green;
+}
+#computerwin {
+color: brown;
+}
+#playerwin {
+  color: blue;
+}
+#drawwin {
+  color: green;
+}
+#winner {
+  color: indigo;
+}
+
+
+
